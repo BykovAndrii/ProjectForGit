@@ -4,5 +4,6 @@
     {
         public int a = 56;
         public int b = 3;
+        public int c = 123;
     }
 }
