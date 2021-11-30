@@ -10,7 +10,7 @@ namespace ProjectForGit
 
         public void Test(int a)
         {
-            Console.WriteLine("Test2");
+            Console.WriteLine("Test1");
         }
 
         public void Test1()
