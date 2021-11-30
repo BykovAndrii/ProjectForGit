@@ -6,11 +6,16 @@ namespace ProjectForGit
     {
         public int a = 56;
         public int b = 3;
-        public int c = -235;
+        public int c = -2;
 
         public void Test1(int a)
         {
             Console.WriteLine("Test1");
+        }
+
+        public void Test1()
+        {
+            Console.WriteLine("Test");
         }
     }
 }
