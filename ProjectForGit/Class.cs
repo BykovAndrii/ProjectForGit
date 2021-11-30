@@ -2,7 +2,7 @@
 
 namespace ProjectForGit
 {
-    public class Class1
+    public class Class
     {
         public int a = 56;
         public int b = 3;
