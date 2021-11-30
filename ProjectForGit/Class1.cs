@@ -8,9 +8,9 @@ namespace ProjectForGit
         public int b = 3;
         public int c = -235;
 
-        public void Test()
+        public void Test1()
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test1");
         }
     }
 }
