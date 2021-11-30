@@ -14,6 +14,8 @@ namespace ProjectForGit
         public void Test(int a)
         {
             Console.WriteLine("Test1");
+            Console.WriteLine("Test1");
+            Console.WriteLine("Test1");
         }
 
         public void Test1()
