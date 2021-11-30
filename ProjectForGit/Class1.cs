@@ -5,6 +5,6 @@
         public int a = 56;
         public int b = 3;
         public int c = -23;
-        public int d = 123;
+        
     }
 }
