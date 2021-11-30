@@ -2,13 +2,13 @@
 
 namespace ProjectForGit
 {
-    public class Class1
+    public class Class
     {
         public int a = 56;
         public int b = 3;
         public int c = -2;
 
-        public void Test1(int a)
+        public void Test(int a)
         {
             Console.WriteLine("Test1");
         }
