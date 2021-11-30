@@ -6,7 +6,7 @@ namespace ProjectForGit
     {
         public int a = 56;
         public int b = 3;
-        public int c = 3;
+        public int c = 5;
 
         public void Test(int a)
         {
